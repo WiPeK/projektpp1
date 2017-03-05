@@ -1,0 +1,1 @@
+do kazdego innego css inne style.less
